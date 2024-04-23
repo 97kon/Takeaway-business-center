@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 外卖商家中心 （Takeaway-business-center）
 
 ##### 本项目代码为前端，技术栈主要为Vue3+Elementplus+Axious+Vue-Router+Echars
@@ -64,3 +65,7 @@
 
 
 
+=======
+# Takeaway-business-center
+外卖商家中心（前端）
+>>>>>>> c2f8f0d45dca3c84c4c6b613d70dc94572428778
